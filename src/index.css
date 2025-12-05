@@ -69,7 +69,7 @@
 
     --card: 0 0% 100%;
 
-    --primary: 219 100% 60%; /* Color primario */
+    --primary: 250 47% 60%;
     --primary-foreground: 210 40% 98%;
 
     --border: 214 32% 91%;
@@ -81,7 +81,7 @@
 
     --card: 222 47% 8%;
 
-    --primary: 211 100% 61%;
+    --primary: 250 65% 65%;
     --primary-foreground: 213 31% 91%;
 
     --border: 217 33% 20%;
@@ -109,7 +109,7 @@
     max-width: 640px;
   }
   @media (width >= 768px) {
-    max-width: 768px;
+    max-width: 268px;
   }
   @media (width >= 1024px) {
     max-width: 1024px;
@@ -124,7 +124,7 @@
 
 @utility text-glow {
   @apply relative;
-  text-shadow: 0 0 10px rgba(39, 70, 245, 0.5);
+  text-shadow: 0 0 10px rgba(167, 139, 250, 0.5);
 }
 
 @utility card-hover {

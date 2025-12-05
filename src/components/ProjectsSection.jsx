@@ -68,7 +68,7 @@ export const ProjectsSection = () => {
       <div className="container mx-auto max-w-5xl">
         <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
           {" "}
-          Mis <span className="text-primary">Proyectos </span>
+          Proyectos <span className="text-primary">Dev </span>
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
