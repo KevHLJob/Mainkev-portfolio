@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "Wanner Service",
     description:
-      "Creado para la venta de servicios de Ingeniería Electromecánica..",
+      "Creado para la venta de servicios de Ingeniería Electromecánica.",
     image: "/projects/WSDservice.png",
     tags: ["Next.js", "Typescript", "Chakra-ui"],
     demoUrl: "https://wanner-service777.netlify.app/",
@@ -34,7 +34,7 @@ const projects = [
     id: 4,
     title: "Tic Tac Toe",
     description:
-      "Juego básico de tres en raya, creado para practicar javascript, useState",
+      "Juego básico de tres en raya, creado para practicar javascript, useState.",
     image: "/projects/Tictactoe-react.png",
     tags: ["React", "Vite" ],
     demoUrl: "https://tic-tac-toe-77.netlify.app/",

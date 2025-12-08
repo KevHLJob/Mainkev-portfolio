@@ -73,6 +73,19 @@ export const ContactSection = () => {
                   </a>
                 </div>
               </div>
+
+              <div className="flex items-start space-x-4">
+                <div className="p-3 rounded-full bg-primary/10">
+                  <Linkedin className="h-6 w-6 text-primary" />{" "}
+                </div>
+                <div>
+                  <h4 className="font-medium"> Linkedin</h4>
+                  <a className="text-muted-foreground hover:text-primary transition-colors" 
+                  href="https://www.linkedin.com/in/kevin-l%C3%B3pez-meza-5b3a3a213/">
+                    Ing. Kevin López Meza
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
